@@ -1,6 +1,4 @@
-# Gesture Volume control 
-
-**PROJECT TITLE**
+**GESTURE VOLUME CONTROL**
 
 **GOAL**
 
