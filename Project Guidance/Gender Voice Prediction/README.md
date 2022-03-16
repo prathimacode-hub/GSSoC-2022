@@ -45,45 +45,45 @@ It helps in predicting the voice to know of the gender based on various paramter
 
 ### Logistic Regression
 
-Logistic Regression score on cross validation: 76.85790440442439%
-Logistic Regression model score on Training data: 97.33874605322508%
-Logistic Regression model score on Testing data: 97.68664563617246%
+Logistic Regression score on cross validation: 76.85790440442439% <br>
+Logistic Regression model score on Training data: 97.33874605322508% <br>
+Logistic Regression model score on Testing data: 97.68664563617246% <br>
 
 ### Random Forest
 
-Random Forest score on cross validation: 96.811184762209%
-Random Forest model score on Training data: 100.0%
-Random Forest model score on Testing data: 98.63301787592007%
+Random Forest score on cross validation: 96.811184762209% <br>
+Random Forest model score on Training data: 100.0% <br>
+Random Forest model score on Testing data: 98.63301787592007% <br>
 
 ### K Nearest Neighbour
 
-KNN score on cross validation: 67.7692369125105%
-KNN model score on Training data: 98.46639603067207%
-KNN model score on Testing data: 97.89695057833859%
+KNN score on cross validation: 67.7692369125105% <br>
+KNN model score on Training data: 98.46639603067207% <br>
+KNN model score on Testing data: 97.89695057833859% <br>
 
 ### Bagging
 
-Bagging score on cross validation: 96.4328355229006%
-Bagging model score on Training data: 100.0%
-Bagging model score on Testing data: 97.79179810725552%
+Bagging score on cross validation: 96.4328355229006% <br>
+Bagging model score on Training data: 100.0% <br>
+Bagging model score on Testing data: 97.79179810725552% <br>
 
 ### Gradient Boosting
 
-Boosting score on cross validation: 96.96931278201492%
-Boosting model score on Training data: 99.3234100135318%
-Boosting model score on Testing data: 97.89695057833859%
+Boosting score on cross validation: 96.96931278201492% <br>
+Boosting model score on Training data: 99.3234100135318% <br>
+Boosting model score on Testing data: 97.89695057833859% <br>
 
 ### Decision Tree
 
-Decision Tree score on cross validation: 95.38972966497624%
-Decision Tree model score on Training data: 100.0%
-Decision Tree model score on Testing data: 95.68874868559412%
+Decision Tree score on cross validation: 95.38972966497624% <br>
+Decision Tree model score on Training data: 100.0% <br>
+Decision Tree model score on Testing data: 95.68874868559412% <br>
 
 ### Support Vector Machine
 
-SVM score on cross validation: 64.29830691211117%
-SVM model score on Training data: 98.37618403247632%
-SVM model score on Testing data: 98.52786540483702%
+SVM score on cross validation: 64.29830691211117% <br>
+SVM model score on Training data: 98.37618403247632% <br>
+SVM model score on Testing data: 98.52786540483702% <br>
 
 **YOUR NAME**
 
