@@ -25,4 +25,4 @@ Go to Extensions in Google Chrome and Enable the Toggle button of Developer Mode
 
 Prathima Kadari
 
-Use this section to mention if any particular disclaimer is required
+
