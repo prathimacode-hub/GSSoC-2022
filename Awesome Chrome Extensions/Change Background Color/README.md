@@ -14,6 +14,7 @@ This project will help in having a separate extension that helps in changing the
 
 - Add popup html file that has 4 color options to change the background color
 - Included css and js file to function this project
+- Include json file with all necessary add-ons
 
 
 ## Setup instructions
