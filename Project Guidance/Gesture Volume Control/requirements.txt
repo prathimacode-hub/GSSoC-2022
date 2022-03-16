@@ -1,0 +1,8 @@
+cv2
+mediapipe
+time
+numpy
+ctypes
+comtypes
+pycaw
+screen_brightness_control
