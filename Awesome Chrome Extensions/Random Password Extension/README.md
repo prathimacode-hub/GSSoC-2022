@@ -1,60 +1,30 @@
-# random-password-chrome-extension
-Aim is to make an Chrome extension and later cast it for other browsers
-
-# Package/Script Name
+# Random Password Generator Extension
 
 ## Aim
 
-The main aim of the project you want to achieve.
+The main aim of the project is create an extension that generates random passwords
 
 
 ## Purpose
 
-What's the purpose of this project
+This project will help in having a separate extension that helps in generating random passwords based on the difficulty level you choose. Difficulty level varies on the basis of numbers, alphabets, capitals and special characters. You can set the number of characters you want in your password.
 
 
-## Short description of package/script
+## Short description of project
 
-- If package, list of functionalities/scripts it can perform
-- If standalone script, short description of script explaining what it achieves.
-- List out the libraries imported.
-
-
-## Workflow of the Project
-
-Add the workflow of the project point by point to get good understanding of the program
+- Add popup html file that enables the extension format
+- Included css and js file to function this project
+- Include json file with all necessary add-ons
 
 
 ## Setup instructions
 
-Explain how to setup and run your package/script in user's system
-
-
-## Detailed explanation of script, if needed
-
-If code is not explainable using comments, use this sections to explain your script
-
-
-## Compilation Steps
-
-Briefly show the compilation steps of the project
-
-
-## Output
-
-Display images/gifs/videos of output/result of your script so that users can visualize it
-
-
-## Conclusion
-
-Provide overall summary and proper conclusion to your project
+Go to Extensions in Google Chrome and Enable the Toggle button of Developer Mode to activate the extension
 
 
 ## Author(s)
 
-Name(s) of author(s)
+Prathima Kadari
 
 
-## Disclaimers, if any
 
-Use this section to mention if any particular disclaimer is required
