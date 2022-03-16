@@ -1,4 +1,4 @@
-# Package/Script Name
+# Change Background Color
 
 ## Aim
 
