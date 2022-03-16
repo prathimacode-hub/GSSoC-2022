@@ -1,27 +1,39 @@
 # Gesture Volume control 
 
-Ever dreamed of control your volume in PC just by waving your hand in the air...Well that is exactly what Gesture volume control does using Python(OpenCV,Mediapipe, pycraw and NumPy.
+**PROJECT TITLE**
 
-## Run the code 
+**GOAL**
 
--  Clone the folder - Gesture Volume Control 
+This project helps in controlling the volume using gestures
 
--  You must install python,mediapipe, openCV,numpy,time,ctypes,comtypes,pycaw and screen_brightness_control
+**DATASET**
 
-- In cmd do:
-  - `pip install opencv-python`
-  - `pip install mediapipe`
-  - `pip install numpy `
-  - `pip install pycraw`
-  - `pip install ctypes`
-  - `pip install comtypes`
-  - `pip install screen_brightness_control`  
-  - Also check for any package that's need to be installed, on cmd
-  - then run the scripts `python VolumeControl.py`
+We take facial landmarks points using media pipe library
 
-## Output 
-![ ](https://i.imgur.com/8fl6zqU.gif)
+**DESCRIPTION**
 
-## Author 
+Have you ever dreamed of control your volume in PC just by waving your hand in the air. Well that is exactly what Gesture volume control does using Python(OpenCV,Mediapipe, pycraw and NumPy).
 
-[Soumik Kumar Baithalu](https://github.com/soumik2012)
+**WHAT I HAD DONE**
+
+- Worked on Gesture Volume Control model using mediapipe
+- Installed python, mediapipe, openCV, numpy, time, ctypes, comtypes, pycaw and screen_brightness_control
+- Run the script `python VolumeControl.py`
+
+**LIBRARIES NEEDED**
+
+- mediapipe
+- openCV
+- numpy
+- time
+- ctypes
+- comtypes
+- pycaw 
+- screen_brightness_control
+
+**OUTPUT**
+
+
+**YOUR NAME**
+
+Prathima Kadari
