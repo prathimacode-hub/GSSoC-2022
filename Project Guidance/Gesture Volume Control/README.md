@@ -10,7 +10,7 @@ This project helps in controlling the volume using gestures
 
 We take facial landmarks points using media pipe library
 
-![Facial Landmarks]()
+![Facial Landmarks](Facial_Landmarks.png)
 
 **DESCRIPTION**
 
