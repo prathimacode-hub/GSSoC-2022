@@ -1,6 +1,6 @@
 mkdir -p ~/.streamlit/
 echo "[general]
-email = \"dheeraj12000@gmail.com\"
+email = \"kadariprathima4@gmail.com\"
 " > ~/.streamlit/credentials.toml
 echo "[server]
 headless = true
