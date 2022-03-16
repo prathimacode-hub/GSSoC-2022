@@ -1,4 +1,3 @@
-# https://fierce-brook-58056.herokuapp.com/
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -13,7 +12,7 @@ from sklearn.metrics import precision_score, recall_score
 def main():
     st.title("Classification of Edible and Poisonous Mushrooms 🍄")
     st.sidebar.title("Interaction area")
-    st.markdown("Use ML algorithms to check whether mushrooms are edible or poisonous? 🍄")
+    st.markdown("Use ML algorithms to check whether mushrooms are edible or poisonous?")
     st.sidebar.markdown("Select the Model and their Hyperparameters, and click on Classify button to see the results.")
 
     @st.cache(persist=True)
