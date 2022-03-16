@@ -2,56 +2,25 @@
 
 ## Aim
 
-The main aim of the project you want to achieve.
+The main aim of the project is create an extension that changes the background color
 
 
 ## Purpose
 
-What's the purpose of this project
+This project will help in having a separate extension that helps in changing the background color of the page.
 
 
-## Short description of package/script
+## Short description of project
 
-- If package, list of functionalities/scripts it can perform
-- If standalone script, short description of script explaining what it achieves.
-- List out the libraries imported.
-
-
-## Workflow of the Project
-
-Add the workflow of the project point by point to get good understanding of the program
+- Add popup html file that has 4 color options to change the background color
+- Included css and js file to function this project
 
 
 ## Setup instructions
 
-Explain how to setup and run your package/script in user's system
-
-
-## Detailed explanation of script, if needed
-
-If code is not explainable using comments, use this sections to explain your script
-
-
-## Compilation Steps
-
-Briefly show the compilation steps of the project
-
-
-## Output
-
-Display images/gifs/videos of output/result of your script so that users can visualize it
-
-
-## Conclusion
-
-Provide overall summary and proper conclusion to your project
+Go to Extensions in Google Chrome and Enable the Toggle button of Developer Mode to activate the extension
 
 
 ## Author(s)
 
-Name(s) of author(s)
-
-
-## Disclaimers, if any
-
-Use this section to mention if any particular disclaimer is required
+Prathima Kadari
