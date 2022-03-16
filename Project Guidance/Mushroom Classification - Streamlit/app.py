@@ -31,7 +31,7 @@ def main():
         return x_train, x_test, y_train, y_test
 
     def plot_metrics(metrics_list):
-        if 'Confusion Metrix' in metrics_list:
+        if 'Confusion Matrix' in metrics_list:
             st.subheader("Confusion Metrix")
             plot_confusion_matrix(model, x_test, y_test, display_labels = class_names)
             st.pyplot()
