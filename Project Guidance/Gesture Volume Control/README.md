@@ -10,6 +10,8 @@ This project helps in controlling the volume using gestures
 
 We take facial landmarks points using media pipe library
 
+![Facial Landmarks]()
+
 **DESCRIPTION**
 
 Have you ever dreamed of control your volume in PC just by waving your hand in the air. Well that is exactly what Gesture volume control does using Python(OpenCV,Mediapipe, pycraw and NumPy).
@@ -33,6 +35,7 @@ Have you ever dreamed of control your volume in PC just by waving your hand in t
 
 **OUTPUT**
 
+![Output]()
 
 **YOUR NAME**
 
