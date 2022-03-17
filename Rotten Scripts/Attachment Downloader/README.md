@@ -1,33 +1,33 @@
-# ATTACHMENT DOWNLOADER
+## ATTACHMENT DOWNLOADER
 
 
-## AIM
+### AIM
 
 The aim of this project is to create a program that can download the attachments from the fresh received mail. 
 
 
-## DESCRIPTION
+### DESCRIPTION
 
 - Basically this program downloads all the attachments that attached with new received mails. 
 
 * Note: The sender's email address must set to allow less secure apps, if you are using Gmail.
 
 
-## WORKFLOW
+### WORKFLOW
 
 - First this program will run and take input of the email address and it's password.
 
 - Then it will download all the attachments at the file location you want.
 
 
-## SETUP INSTRUCTIONS
+### SETUP INSTRUCTIONS
 
 - You just need to install some of the libraries of python and you can run this program.
 
 - All the libraries are mentioned in requirements.txt
 
 
-# OUTPUT 
+### OUTPUT 
 
 <p align="center"><img src="Attachment%20Downloader/Images/1_Sending%20Mail.png">"</p>
 <br>
@@ -39,6 +39,6 @@ The aim of this project is to create a program that can download the attachments
 <br>
 
 
-## AUTHOR
+### AUTHOR
 
 Prathima Kadari
