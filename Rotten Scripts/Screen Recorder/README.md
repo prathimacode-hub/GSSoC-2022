@@ -47,7 +47,7 @@ Screen Recorder is a project that is used to record your screen and saves it as 
 
 ### OUTPUT
 
-![Screen Recorder]()
+![Screen Recorder](https://github.com/prathimacode-hub/GSSoC-2022/blob/main/Rotten%20Scripts/Screen%20Recorder/Images/output.jpeg)
 
 ### AUTHOR
 
