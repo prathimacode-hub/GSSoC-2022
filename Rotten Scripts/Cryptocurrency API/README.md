@@ -1,4 +1,4 @@
-## Crypto-Currency API 🗣
+## CRYPTOCURRENCY API
 
 ### AIM
 
