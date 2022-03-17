@@ -1,57 +1,26 @@
-# Package/Script Name
+# Budget Manager
 
 ## Aim
 
-The main aim of the project you want to achieve.
-
+The main aim of the project is create an extension of budget manager
 
 ## Purpose
 
-What's the purpose of this project
+This project will help in having a separate extension that helps in managing your budget by setting up a limit
 
 
-## Short description of package/script
+## Short description of project
 
-- If package, list of functionalities/scripts it can perform
-- If standalone script, short description of script explaining what it achieves.
-- List out the libraries imported.
-
-
-## Workflow of the Project
-
-Add the workflow of the project point by point to get good understanding of the program
+- Add popup html file and options html file which creates basic template along with options provided
+- Included popup and event js files to add the functionality of this project
+- Include json file with all necessary add-ons
 
 
 ## Setup instructions
 
-Explain how to setup and run your package/script in user's system
-
-
-## Detailed explanation of script, if needed
-
-If code is not explainable using comments, use this sections to explain your script
-
-
-## Compilation Steps
-
-Briefly show the compilation steps of the project
-
-
-## Output
-
-Display images/gifs/videos of output/result of your script so that users can visualize it
-
-
-## Conclusion
-
-Provide overall summary and proper conclusion to your project
+Go to Extensions in Google Chrome and Enable the Toggle button of Developer Mode to activate the extension
 
 
 ## Author(s)
 
-Name(s) of author(s)
-
-
-## Disclaimers, if any
-
-Use this section to mention if any particular disclaimer is required
+Prathima Kadari
