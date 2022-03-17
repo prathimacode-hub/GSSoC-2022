@@ -31,12 +31,11 @@ API :  'https://cryptantapi.root.sx/getPrice/Bitcoin'
 
 1. Have Python 3.x setup in the system
 2. Install the necessary packages 
-3. Run the code using the command
+3. Run the code using the command and obtain the Output
 
     ```
       python cryptocurrency_rates.py
     ```
-   and obtain the Output
 
 ### WORKFLOW
 
