@@ -15,8 +15,10 @@ It helps in classifying the kinds of mushrooms based on various paramters from d
 **WHAT HAD I DONE**
 
 Created a streamlit dashboard
+
 Added options for Plot Metrics and Classifiers
-Porjected in Plot to see the classification of mushrooms
+
+Projected in Plot to see the classification of mushrooms
 
 **MODELS USED**
 
