@@ -16,8 +16,6 @@
 
   <li>This program can be used for developing portfolio of crypto-currency investors where one can get minimal but most recent and important values and data related to specific crypto-currencies.</li>
 
-<br>
-
 ### REQUIREMENTS
 
 <ul>
@@ -25,13 +23,9 @@
   to fetch data from url
 </ul>
   
-<br>
-
-### Example API Request: 
+#### Example API Request: 
 
 API :  'https://cryptantapi.root.sx/getPrice/Bitcoin'
-
-<br>
 
 ### SETUP INSTRUCTIONS
 
@@ -44,21 +38,15 @@ API :  'https://cryptantapi.root.sx/getPrice/Bitcoin'
     ```
    and obtain the Output
 
-<br> 
-
 ### WORKFLOW
 
 1. Enter number of requests
 2. Enter currency name as many times as you have requested.
 3. Obtain the Output
 
-<br> 
-
 ### OUTPUT
 
 <img src="Images/output.png">
-
-<br> 
 
 ## AUTHOR
 
