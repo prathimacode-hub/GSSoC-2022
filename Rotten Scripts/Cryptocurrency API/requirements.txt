@@ -1,4 +1,1 @@
-## Libraries used
-
-requests
-datetime
+requests==2.27.1
