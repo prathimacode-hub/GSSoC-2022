@@ -35,7 +35,7 @@ The purpose of this project is to get the top 10 trending videos in each of the 
 
 ### OUTPUT
 
-![image](Rotten%20Scripts\YouTube%20Trending%20Videos%20Scraper\Images\Output.PNG)
+![image](https://github.com/prathimacode-hub/GSSoC-2022/blob/main/Rotten%20Scripts/Youtube%20Trending%20Videos%20Scraper/Images/Output.png)
 
 ### AUTHOR
 
